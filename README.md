@@ -24,3 +24,13 @@
 + ```cd MINHAZ```
 
 + ```python MINHAZ-TOOL.py```
+
+
+
+
+
+
+### Visitors :
+
+
+![Visitor Count](https://profile-counter.glitch.me/maminhaz60/count.svg)
